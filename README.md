@@ -1,4 +1,3 @@
-![Header](https://bharani-dev.netlify.app/assets/images/github/github-header-image.png)
 ## Hi there 👋 It's me Bharani Karthikeyan
 
 
