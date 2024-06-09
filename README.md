@@ -2,8 +2,7 @@
 
 Full-Stack Developer @ Shalom Infotech
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-[![Netlify Status](https://api.netlify.com/api/v1/badges/df4df985-f36f-411c-9b13-e037e13d702c/deploy-status)](https://app.netlify.com/sites/bharani-dev/deploys)
-- 🔭 Here's my [portfolio](https://bharani-dev.netlify.app/)                                                 
+- 🔭 Here's my [portfolio](https://bharani-dev.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/df4df985-f36f-411c-9b13-e037e13d702c/deploy-status)](https://app.netlify.com/sites/bharani-dev/deploys)                                                
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on MERN 
 - 🤔 I’m looking for help with Placements in MNC
