@@ -1,11 +1,11 @@
-![Banner](https://github.com/bharani-developer/bharani-developer/blob/main/Bharani-Banner-dark.png)
+![Banner](https://github.com/bharani-developer/bharani-developer/blob/main/bharani-banner.png)
 
 
 ## Hi there 👋 It's me Bharani Karthikeyan
 
 
 Full-Stack Developer @ Shalom Infotech
-<img align="right" width="370" height="290" src="https://github.com/bharani-developer/bharani-developer/blob/main/bharani_developer.gif">
+<img align="right" width="370" height="290" src="https://github.com/bharani-developer/bharani-developer/blob/main/programmer.gif">
 - 🔭 Here's my [portfolio](https://bharani-dev.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/df4df985-f36f-411c-9b13-e037e13d702c/deploy-status)](https://app.netlify.com/sites/bharani-dev/deploys)                                                
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on MERN 
