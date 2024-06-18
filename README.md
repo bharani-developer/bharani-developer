@@ -1,4 +1,4 @@
-![Banner](https://github.com/bharani-developer/bharani-developer/blob/main/bharani-banner.png)
+![Banner](https://github.com/bharani-developer/bharani-developer/blob/main/Bharani-Banner-dark.png)
 
 
 ## Hi there 👋 It's me Bharani Karthikeyan
